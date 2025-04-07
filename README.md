@@ -33,6 +33,12 @@
 -  Sistema de agendamento integrado com calendário
 -  Múltiplas opções de pagamento (Pix, cartão, boleto)
 
+## 💻 Tecnologias Utilizadas
+- Banco de dados: MySQL (relacional)
+- Linguagem: SQL para criação e consultas
+- Controle de versão: Git com GitHub
+
+
 ## 🗃️ Banco de Dados
 
 - [Código de criação do BD](./data/codigo_criacao_banco.sql)

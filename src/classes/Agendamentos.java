@@ -38,5 +38,4 @@ public class Agendamento {
         this.valor = valor;
     }
 
-    // Getters e Setters omitidos por brevidade
 }
